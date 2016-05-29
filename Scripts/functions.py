@@ -8,7 +8,6 @@ except ImportError:
 
 def load():
 	dirname = os.listdir('/Users/stephane.sol/Documents/GitHub/sol-data-science/frenchocr/Input/')
-
 	for file in dirname:
 		file_path = os.path.abspath(file)
 		return file_path
@@ -23,38 +22,32 @@ def resize_image():
 		i.save('300/{}_300.png'.format(fn, fext))
 
 
-def parse():
-	with open('/Users/stephane.sol/Documents/GitHub/sol-data-science/frenchocr/out.txt', 'r') as content_file:
+def parse(file):
+	with open(file, 'r') as content_file:
 		content = content_file.read()
 		parse_new_line = content.split("\n\n")
 	print(parse_new_line)
 
 
-def crop_image(file):
+def crop_image(file, left, top, right, bottom):
 	for f in [f for f in os.listdir(file) if not f.startswith('.')]:
 		i = Image.open(f)
-		left = 0
-		top = 100
-		right = 3100
-		bottom = 2000
 		crop_i = i.crop((left, top, right, bottom))
-
 		fn, fext = os.path.splitext(f)
 		crop_i.save(os.path.join(file, '{}_crop.png'.format(fn, fext)))
 
-def rotate_image(file,degree):
+
+def rotate_image(file,rotate_degree):
 	for f in [f for f in os.listdir(file) if not f.startswith('.')]:
 		i = Image.open(f)
-		rotate_i = i.rotate(degree)
-
+		rotate_i = i.rotate(rotate_degree)
 		fn, fext = os.path.splitext(f)
 		rotate_i.save(os.path.join(file,'{}{}'.format(fn, fext)))
 
 
-def ocr(file):
-	os.chdir(file)
-	for f in [f for f in os.listdir(file) if not f.startswith('.')]:
-		input = os.path.join(path,f)
+def ocr(directory):
+	for f in [f for f in os.listdir(directory) if not f.startswith('.')]:
+		input = os.path.join(directory, f)
 		fn, fext = os.path.splitext(f)
 		output = fn
 		cmd = 'tesseract -l eng+fra {} {}'.format(input, output)
