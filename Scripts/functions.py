@@ -6,20 +6,20 @@ except ImportError:
 	from PIL import Image
 
 
-def load():
-	dirname = os.listdir('/Users/stephane.sol/Documents/GitHub/sol-data-science/frenchocr/Input/')
+def dirToList(directory):
+	dirname = os.listdir(directory)
 	for file in dirname:
 		file_path = os.path.abspath(file)
 		return file_path
 
 
-def resize_image():
-	size_300 = (300, 300)
+def resize_image(x, y):
+	size = (x, y)
 	for file in os.listdir('.'):
 		i = image.open(file)
 		fn, fext = os.path.slitext(file)
-		i.thumbnail(size_300)
-		i.save('300/{}_300.png'.format(fn, fext))
+		i.thumbnail(size)
+		i.save('{}/{}_{}.{}'.format(x, fn, x, fext))
 
 
 def parse(file):
@@ -42,7 +42,7 @@ def rotate_image(file,rotate_degree):
 		i = Image.open(f)
 		rotate_i = i.rotate(rotate_degree)
 		fn, fext = os.path.splitext(f)
-		rotate_i.save(os.path.join(file,'{}{}'.format(fn, fext)))
+		rotate_i.save(os.path.join(file, '{}{}'.format(fn, fext)))
 
 
 def ocr(directory):
