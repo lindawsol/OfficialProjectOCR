@@ -4,12 +4,11 @@ dix 10
 onze 1 l
 douze 12
 treize l3
-
-' quatorze 14
+quatorze 14
 quinze 1 5
 seize 16
 dix-sept 17
-dix-huit 1 8
+dix-huit 18
 dix-neuf 19
 vingt 20
 vingt et un 21
@@ -24,6 +23,7 @@ soixante 60
 Les couleurs
 
 la couleur f the color
+
 le blanc m. white
 
 le bleu m. blue
@@ -42,7 +42,7 @@ abricot rn. apricot
 
 agneau m. lamb
 
-all m. garlic
+ail m. garlic
 
 amande f. almond
 

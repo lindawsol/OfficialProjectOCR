@@ -23,10 +23,15 @@ def resize_image(x, y):
 
 
 def parse(file):
+	##TODO remove white space at end of file
 	with open(file, 'r') as content_file:
 		content = content_file.read()
+		'add file name to beginning of list'
 		parse_new_line = content.split("\n\n")
-	print(parse_new_line)
+		file_with_ext = os.path.basename(file)
+		file_name = os.path.splitext(file_with_ext)[0]
+		parse_new_line.insert(0,file_name)
+	return parse_new_line
 
 
 def crop_image(file, left, top, right, bottom):
