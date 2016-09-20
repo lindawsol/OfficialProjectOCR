@@ -7,7 +7,7 @@ when you cross the street.
 très very Mes enfants vont très bien, merci. My children are very
 well, thank you.
 
-triste sad l'ai dû le rendre triste quand je lui ai dit que son prof de
+triste sad J'ai dû le rendre triste quand je lui ai dit que son prof de
 français était mort. I must have made him sad when I told him that
 his French professor had died.
 
@@ -29,7 +29,7 @@ typique typical La salade niçoise est une nourriture typique de la
 région près de Nice. Niçoise salad is a typical food of the area near
 Nice.
 
-un m., une f. a, an [’ai un couteau et une fourchette. I have a knife
+un m., une f. a, an J’ai un couteau et une fourchette. I have a knife
 and a fork.
 
 usine f factory Cette usine est pour la fabrication des ordinateurs.
@@ -41,10 +41,10 @@ study foreign languages.
 utiliser to use On utilise cet insecticide depuis deux ans. We have
 been using this insecticide for two years.
 
-vacances f pl. vacation l’ai déjà commencé mes vacances. I have
+vacances f pl. vacation J’ai déjà commencé mes vacances. I have
 already started my vacation.
 
-valise f suitcase J’essaie de voyager avec une seule valise. [ try to
+valise f suitcase J’essaie de voyager avec une seule valise. I try to
 travel with only one suitcase.
 
 vallée f valley Il fait plus chaud ici dans la vallée que dans les mon-
@@ -58,4 +58,3 @@ people like to go on bike trips.
 
 vendeur (euse) salesclerk La vendeuse viendra vous aider tout de suite.
 The salesclerk will come to help you right away.
-

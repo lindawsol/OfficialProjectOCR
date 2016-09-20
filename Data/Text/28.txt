@@ -61,4 +61,3 @@ suis malade. We must call the doctor because I am sick.
 meilleur better, best Cet hôtel est meilleur que l’autre. This hotel is
 better than the other one. C’est le meilleur hôtel de cette ville. It’s
 the best hotel in this town.
-

@@ -16,13 +16,13 @@ Follow me and I will show you the street that you are looking for.
 sujet de, au about Avez-vous un livre au sujet de la deuxième guerre
 mondiale? Do you have a book on the Second World War?
 
-supporter to stand, tolerate le ne supporte pas tout ce bruit dans la rue.
+supporter to stand, tolerate Je ne supporte pas tout ce bruit dans la rue.
 I can’t stand all that noise in the street.
 
 sur on, on top of II y a un moulin à vent sur la colline. There is a
 windmill on the hill.
 
-sûr sure, certain j’étais sûr de recevoir un bon accueil. I was sure of
+sûr sure, certain J’étais sûr de recevoir un bon accueil. I was sure of
 receiving a good welcome.
 
 sympathique nice, friendly, pleasant La plupart de mes compagnons
@@ -42,7 +42,7 @@ Ingres among others of the best paintings in the world.
 
 taille f. size Quelle taille portez-vous? Which size do you wear?
 
-tasse f cup le désire une tasse de café, s'il vous plaît. I want a cup of
+tasse f cup Je désire une tasse de café, s'il vous plaît. I want a cup of
 coffee, please.
 
 taureau m. bull A Arles j ’ai vu une course de taureaux. In Arles I saw
@@ -52,10 +52,9 @@ tee-shirt m. T—shirt, undershirt Les jeunes gens portent souvent des tee-
 shirts au lieu des chemises. Young men often wear T—shirts instead of
 shirts.
 
-tel, telle such le n’ai jamais entendu dire une telle chose! I have
+tel, telle such Je n’ai jamais entendu dire une telle chose! I have
 never heard such a thing!
 
-téléphone m. telephone je vais me servir du téléphone dans la cabine
+téléphone m. telephone Je vais me servir du téléphone dans la cabine
 téléphonique au coin de la rue. I am going to use the telephone in
 the phone booth at the street corner.
-

@@ -1,7 +1,7 @@
 raser, se to shave I l a la barbe et donc il n’a pas besoin de se raser. He
 has a beard and therefore he doesn’t need to shave.
 
-recevoir to receive le viens de recevoir un paquet. I have just
+recevoir to receive Je viens de recevoir un paquet. I have just
 received a package.
 
 reconnaître to recognize I ’ai reconnu mon ancien prof de musique à la
@@ -13,13 +13,13 @@ a receipt.
 regarder to look (at) Regarde l’aube sur la mer! Look at the dawn on
 the sea!
 
-régime m. regime, diet le dois suivre un régime pour perdre du poids.
+régime m. regime, diet Je dois suivre un régime pour perdre du poids.
 I have to go on a diet to lose weight.
 
 règle f ruler, rule Il faut obéir aux règles de circulation. You must
 obey the traffic rules.
 
-regretter to regret, to be sorry (for) le le regrette, mais il n’a pas
+regretter to regret, to be sorry (for) Je le regrette, mais il n’a pas
 téléphoné. I am sorry, but he didn’t call.
 
 reine f. queen La reine Marie Antoinette a été guillotinée. Queen
@@ -30,7 +30,7 @@ rejeter to reject Ils ont rejeté notre idée. They rejected our idea.
 remède m. cure, remedy Sa maladie est sans remède. His illness is
 without a cure.
 
-remercier to thank le vous remercie de votre gentillesse. I thank you
+remercier to thank Je vous remercie de votre gentillesse. I thank you
 for your kindness.
 
 remettre hand over, deliver Elle m’a remis la lettre sans rien dire.
@@ -42,7 +42,7 @@ bottle with oil, please.
 rencontrer to meet, to bump into Nous nous sommes rencontrés par
 hasard au supermarché. We met by chance at the supermarket.
 
-rendez-vous m. appointment, date I ’ai rendez-vous chez le médecin à
+rendez-vous m. appointment, date J’ai rendez-vous chez le médecin à
 dix heures. I have an appointment at the doctor’s office at ten
 o’clock.
 
@@ -53,7 +53,7 @@ me.
 repas m. meal On mange de bons repas à cette pension. You eat
 good meals in this boardinghouse.
 
-repasser to iron, press [e dois repasser cette robe avant de la mettre. I
+repasser to iron, press Je dois repasser cette robe avant de la mettre. I
 have to iron this dress before putting it on.
 
 répéter to repeat le répète,—N’arrivez pas en retard! I repeat: Do
@@ -61,4 +61,3 @@ not arrive late!
 
 répondre to answer, reply Réponds à ma lettre ou je ne t’écrirai plus.
 Answer my letter or I will not write to you anymore.
-

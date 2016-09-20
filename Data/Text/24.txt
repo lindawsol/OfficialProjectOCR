@@ -59,4 +59,3 @@ joli(e) pretty Ta nouvelle robe est très jolie. Your new dress is very
 pretty.
 
 jouer to play Qui va jouer au tennis? Who is going to play tennis?
-

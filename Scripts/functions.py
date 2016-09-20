@@ -23,7 +23,6 @@ def resize_image(x, y):
 
 
 def parse(file):
-	##TODO remove white space at end of file
 	with open(file, 'r') as content_file:
 		content = content_file.read()
 		'add file name to beginning of list'

@@ -4,7 +4,7 @@ favorable.
 reposer, se to rest Le voyage était long et je désire me reposer. The
 trip was long and I want to rest.
 
-respirer to breathe ll respirait avec diﬁiculté mais il était lucide. He
+respirer to breathe Il respirait avec diﬁiculté mais il était lucide. He
 was breathing with difficulty but he was conscious.
 
 tester to stay, remain Nous avons l’intention de rester à Paris pour deux
@@ -19,7 +19,7 @@ the railroad station.
 retarder to be slow, to delay Ta montre retarde de cinq minutes. Your
 watch is five minutes slow.
 
-retirer to withdraw, take out l’ai retiré de l’argent de la banque pour
+retirer to withdraw, take out J’ai retiré de l’argent de la banque pour
 mon voyage. I withdrew some money from the bank for my trip.
 
 retour return; étre de __ (de) to be back (from) Il sera de retour à six
@@ -60,4 +60,3 @@ soirée. Bring one elegant dress to go to the theater or to a party.
 
 roi m. king Le roi Louis XVI a été guillotiné. King Louis XVI was
 guillotined.
-
