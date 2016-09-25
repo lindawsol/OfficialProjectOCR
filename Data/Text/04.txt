@@ -28,7 +28,7 @@ like to attend that lecture.
 
 assurance f. insurance Avez—vous l’assurance contre l’incendie? Do you have ﬁre insurance?
 
-assurer to insure l’aimerais assurer ce paquet. I would like to insure
+assurer to insure J’aimerais assurer ce paquet. I would like to insure
 this package.
 
 attention f. attention, care Attention! Ne te brûle pas. Careful! Don’t burn yourself.
@@ -47,10 +47,3 @@ autorité f. authority Cet agent de police a l’autorité de nous faire une
 amende. This police ofﬁcer has the authority to make us pay a fine.
 
 autoroute f. highway En France on a de très bonnes autoroutes. In France there are very good highways.
-
-
-
-
-
-
-

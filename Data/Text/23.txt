@@ -26,7 +26,7 @@ homme/femme d’affaires m./f. businessman/ -woman Les hommes
 d’affaires vont souvent à ce restaurant. Businessmen often go to this
 restaurant.
 
-honte f. shame ] ’ai honte d’avouer que le travail n’est pas termine”. I
+honte f. shame J’ai honte d’avouer que le travail n’est pas termine”. I
 am ashamed to say that the job is not finished.
 
 horaire m. schedule, timetable Voici l’horaire des trains de Paris à
@@ -47,7 +47,7 @@ monuments à voir que je ne sais pas où commencer. There are so many
 beautiful museums and beautiful monuments to see that I don’t
 know where to begin.
 
-ils m. (elles f ) they [e pense qu’ils nous suivront. I think that they
+ils m. (elles f ) they Je pense qu’ils nous suivront. I think that they
 will follow us.
 
 immédiatement immediately Descends du train immédiatement.
@@ -60,3 +60,5 @@ importer to matter, to be important Qu’importe? What does it
 matter?
 
 impôt rn. tax On a augmenté les impôts sur les parfums francais aux
+Etats—Unis. Taxes on French perfumes have been increased in the
+United States.

@@ -1,9 +1,9 @@
 large wide Les rues principales sont larges et belles. The main streets
-
 are wide and beautiful.
-lavabo m. sink, lavatory [e cherche les lavabos. I am looking for the
 
+lavabo m. sink, lavatory Je cherche les lavabos. I am looking for the
 lavatories.
+
 laver, se to wash (oneself) Il faut laver le plancher. We must wash
 the floor.
 
@@ -40,7 +40,7 @@ lèvre f. lip Elle a les lèvres à Cupidon. She has Cupid lips.
 libre free Après l’université, elle était libre de choisir son sort. After
 the university, she was free to choose her destiny.
 
-lieu m. place le connais un lieu qui est très agréable. I know a place
+lieu m. place Je connais un lieu qui est très agréable. I know a place
 that is very pleasant.
 
 ligne f. line Commencez à lire à la ligne treize. Start reading on line
@@ -49,13 +49,13 @@ thirteen.
 limite f limit Quelle est la limite de vitesse ici? What is the speed
 limit here?
 
-lire to read l’aime lire avant de m’endormir. I like to read before
+lire to read J’aime lire avant de m’endormir. I like to read before
 going to sleep.
 
 liste f. list Voici une liste de restaurants à prix modéré. Here is a list
 of moderately priced restaurants.
 
-lit m. bed le désire une chambre à deux lits. I want a room with two
+lit m. bed Je désire une chambre à deux lits. I want a room with two
 beds.
 
 litre m. liter (1.06 quarts) Un litre de lait et une douzaine d’oeufs, s’il

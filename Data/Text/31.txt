@@ -35,7 +35,7 @@ ing the door open.
 niveau m. level Nous sommes au niveau de la mer ici. We are at sea
 level here.
 
-Noël m. Christmas ]oyeux Noël! Merry Christmas!
+noël m. Christmas ]oyeux Noël! Merry Christmas!
 
 nom m. name Son nom est Michel. His name is Michael.
 
