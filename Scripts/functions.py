@@ -56,3 +56,6 @@ def ocr(directory):
 		output = fn
 		cmd = 'tesseract -l eng+fra {} {}'.format(input, output)
 		os.system(cmd)
+
+def jdefault(o):
+    return o.__dict__
